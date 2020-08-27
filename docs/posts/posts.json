@@ -1,18 +1,18 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "My first post",
+    "description": "This is a first post",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Wiston Rodriguez",
+        "url": {}
       }
     ],
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-27T09:16:30-04:00",
-    "input_file": {}
+    "last_modified": "2020-08-27T09:50:07-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
