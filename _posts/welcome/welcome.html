@@ -41,15 +41,16 @@
   <meta property="twitter:description" content="This is a first post"/>
   
   <!--/radix_placeholder_meta_tags-->
+  
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["My first post"]},{"type":"character","attributes":{},"value":["This is a first post\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Wiston Rodriguez"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["The Graduate Center and Baruch College"]},{"type":"character","attributes":{},"value":["https://www.gc.cuny.edu/Home"]}]}]},{"type":"character","attributes":{},"value":["08-27-2020"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","bibliography","output"]}},"value":[{"type":"character","attributes":{},"value":["My first post"]},{"type":"character","attributes":{},"value":["This is a first post\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Wiston Rodriguez"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["The Graduate Center and Baruch College"]},{"type":"character","attributes":{},"value":["https://www.gc.cuny.edu/Home"]}]}]},{"type":"character","attributes":{},"value":["08-27-2020"]},{"type":"character","attributes":{},"value":["My Collection.bib"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["welcome_files/bowser-1.9.3/bowser.min.js","welcome_files/distill-2.2.21/template.v2.js","welcome_files/jquery-1.11.3/jquery.min.js","welcome_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["IMG/Avatar 2.jpg","My Collection.bib","welcome_files/bowser-1.9.3/bowser.min.js","welcome_files/distill-2.2.21/template.v2.js","welcome_files/jquery-1.11.3/jquery.min.js","welcome_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -974,6 +975,36 @@
 
 <div class="d-article">
 <p>Here I can write my first post. And, basically write out plain text.</p>
+<h1 id="my-first-level-header">My first level header</h1>
+<p>Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.</p>
+<ol type="1">
+<li>My first point</li>
+<li>My second point</li>
+<li>My third point</li>
+</ol>
+<ul>
+<li>My first bullet</li>
+<li>My second bullet</li>
+<li>My third bullet</li>
+</ul>
+<h2 id="my-second-level-header">My second level header</h2>
+<p>Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.</p>
+<p><a href="https://www.gc.cuny.edu/GC-Header/GC-Portal" class="uri">https://www.gc.cuny.edu/GC-Header/GC-Portal</a></p>
+<h2 id="citing-a-paper">Citing a paper</h2>
+<p>This is for training <span class="citation" data-cites="Bell2017">(Bell et al. <a href="#ref-Bell2017" role="doc-biblioref">2017</a>)</span>. This handout was also from training <span class="citation" data-cites="City2020">(City and Recover <a href="#ref-City2020" role="doc-biblioref">2020</a>)</span>.</p>
+<h2 id="pictures">Pictures</h2>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="IMG/Avatar%202.jpg" style="display: block; margin: auto;" /></p>
+</div>
+<h2 id="references" class="unnumbered">References</h2>
+<div id="refs" class="references" role="doc-bibliography">
+<div id="ref-Bell2017">
+<p>Bell, Bradford S., Scott I. Tannenbaum, J. Kevin Ford, Raymond A. Noe, and Kurt Kraiger. 2017. “100 years of training and development research: What we know and where we should go.” <em>Journal of Applied Psychology</em> 102 (3): 305–23. <a href="https://doi.org/10.1037/apl0000142">https://doi.org/10.1037/apl0000142</a>.</p>
+</div>
+<div id="ref-City2020">
+<p>City, New York, and Equitable Economic Recover. 2020. “Recovery for All,” no. July.</p>
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -986,6 +1017,36 @@
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
 <div class="appendix-bottom"></div>
+<script id="distill-bibliography" type="text/bibtex">
+@article{Bell2017,
+abstract = {Training and development research has a long tradition within applied psychology dating back to the early 1900s. Over the years, not only has interest in the topic grown but there have been dramatic changes in both the science and practice of training and development. In the current article, we examine the evolution of training and development research using articles published in the Journal of Applied Psychology (JAP) as a primary lens to analyze what we have learned and to identify where future research is needed. We begin by reviewing the timeline of training and development research in JAP from 1918 to the present in order to elucidate the critical trends and advances that define each decade. These trends include the emergence of more theory-driven training research, greater consideration of the role of the trainee and training context, examination of learning that occurs outside the classroom, and understanding training's impact across different levels of analysis. We then examine in greater detail the evolution of 4 key research themes: training criteria, trainee characteristics, training design and delivery, and the training context. In each area, we describe how the focus of research has shifted over time and highlight important developments. We conclude by offering several ideas for future training and development research.},
+author = {Bell, Bradford S. and Tannenbaum, Scott I. and {Kevin Ford}, J. and Noe, Raymond A. and Kraiger, Kurt},
+doi = {10.1037/apl0000142},
+file = {:Users/WistonRodriguez/Dropbox (Graduate Center)/BARUCH/COURSEWORK/Fall 2020/TRAINING/Readings/Week 1/Bell et al., 2017.pdf:pdf},
+issn = {00219010},
+journal = {Journal of Applied Psychology},
+keywords = {Employee development,Individual differences,Instruction,Learning,Training},
+number = {3},
+pages = {305--323},
+pmid = {28125262},
+title = {{100 years of training and development research: What we know and where we should go}},
+volume = {102},
+year = {2017}
+}
+@article{Rodriguez,
+author = {Rodriguez, Jaime Dimon and Felix V. Matos},
+file = {:Users/WistonRodriguez/Dropbox (Graduate Center)/BARUCH/COURSEWORK/Fall 2020/TRAINING/Readings/Week 1/Dimon {\&} Rodriguez, 2020.pdf:pdf},
+pages = {2--4},
+title = {{Matching homegrown talent to Local jobs}}
+}
+@article{City2020,
+author = {City, New York and Recover, Equitable Economic},
+file = {:Users/WistonRodriguez/Dropbox (Graduate Center)/BARUCH/COURSEWORK/Fall 2020/TRAINING/Readings/Week 1/Recovery-for-All-Plan-full.pdf:pdf},
+number = {July},
+title = {{Recovery For All}},
+year = {2020}
+}
+</script>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->

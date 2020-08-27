@@ -8,6 +8,7 @@ author:
     affiliation: The Graduate Center and Baruch College
     affiliation_url: https://www.gc.cuny.edu/Home
 date: 08-27-2020
+bibliography: My Collection.bib
 output:
   distill::distill_article:
     self_contained: false
@@ -23,3 +24,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 Here I can write my first post. And, basically write out plain text.
+
+# My first level header 
+
+Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.
+
+1. My first point
+2. My second point
+3. My third point
+
+- My first bullet
+- My second bullet
+- My third bullet
+
+## My second level header 
+Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.
+
+<https://www.gc.cuny.edu/GC-Header/GC-Portal>
+
+## Citing  a paper 
+This is for training [@Bell2017]. This handout was also from training [@City2020].
+
+## Pictures
+
+```{r,fig.align='center'}
+knitr::include_graphics("img/Avatar 2.jpg")
+```
+
+## References 
