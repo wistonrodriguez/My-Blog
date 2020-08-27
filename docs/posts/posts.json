@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-08-27T09:50:07-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/8_27_20_second/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Wiston Rodriguez",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-27T09:56:54-04:00",
+    "input_file": "Second.utf8.md"
   }
 ]
