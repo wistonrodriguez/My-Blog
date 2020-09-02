@@ -1,24 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "My first post",
-    "description": "This is a first post",
-    "author": [
-      {
-        "name": "Wiston Rodriguez",
-        "url": {}
-      }
-    ],
-    "date": "2020-08-27",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-08-27T10:35:34-04:00",
-    "input_file": "welcome.utf8.md"
-  },
-  {
     "path": "posts/8_27_20_second/",
     "title": "My second post",
-    "description": "This is a second post",
+    "description": "Reactions to Miller (1965), Newell (1973), and Schacter et al. (1978)",
     "author": [
       {
         "name": "Wiston Rodriguez",
@@ -28,7 +12,23 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-27T09:56:54-04:00",
+    "last_modified": "2020-09-02T10:57:50-04:00",
     "input_file": "Second.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "My goals for this course",
+    "description": "What is cognitive psychology?",
+    "author": [
+      {
+        "name": "Wiston Rodriguez",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-02T10:53:44-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]

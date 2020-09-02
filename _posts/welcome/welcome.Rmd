@@ -1,7 +1,7 @@
 ---
-title: "My first post"
+title: "My goals for this course"
 description: |
-  This is a first post
+  What is cognitive psychology?
 author:
   - name: Wiston Rodriguez  
     url: 
@@ -22,28 +22,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# What is Cognitive Psychology?
 
-Here I can write my first post. And, basically write out plain text.
+In my own words, I view cognitive psychology as a sub-field within Psychology that is focused on studying mental processes within human beings. These processes include: attention, memory, perception, problem solving, and creativity. The research within cognitive psychology seems to be focused on understanding human behavior by examining brain activity as well. Like many other sub-fields in psychology, cognitive psychology topics can permeate across other areas of psychology (e.g., industrial-organizational psychology; I/O). 
 
-# My first level header 
+By training, I am an industrial-organizational psychologist with a broad range of research interests. However, my primary research interests include topics within occupational health psychology and diversity. Specifically, I am interested in topics that cover workplace mistreatment (E.g., workplace incivility, illegitimate tasks), and work-family conflict. I'm hoping to merge my research more with diversity related issues by looking at racial and sexual minorities. 
 
-Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.
+I am hoping to integrate the topics we discuss in this course into my own research as well. I think the topics within learning and decision-making might be ones that I would be able to integrate into future research. For example, learning is a very critical aspect within I/O, especially as it relates to training in the workplace. As I/O Psychologists we are tasked with making sure that the transfer of training occurs. In other words, finding ways to ensure that employees are learning the content required of them on the job. 
 
-1. My first point
-2. My second point
-3. My third point
+Further, decision-making is another critical area within I/O as it relates to performance management. Managers have to periodically manage the performance of their subordinates. In addition, managers have to make several decisions throughout their careers, which is why understanding topics in decision-making would be extremely valuable. I do not see any topics on creativity listed on our syllabus but I also feel that integrating creativity research with I/O topics would be extremely interesting as well. 
 
-- My first bullet
-- My second bullet
-- My third bullet
+The following is a research topic I have thought about that might be worth exploring for my final paper: 
+ 
+1. <b> Workplace mistreatment & employee creativity:</b> there is limited research that suggests that workplace incivility can negatively influence employee creativity. However, what merits further investigation are the mediating mechanisms and boundary conditions that may further influence this relationship. A mediating mechanism that may be worth exploring is the role of negative rumination, which is a cognitive process. I would predict that ruminating over a negative event such as incivility would exacerbate the relationship between incivility and creativity. The boundary conditions of this is still something I am working through. 
 
-## My second level header 
-Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.
-
-<https://www.gc.cuny.edu/GC-Header/GC-Portal>
-
-## Citing  a paper 
-This is for training [@Bell2017]. This handout was also from training [@City2020].
+In addition, I think perhaps exploring 'perceptions' as it relates to topics in industrial psychology might be interesting - such as selection, performance management, and training. 
 
 ## Pictures
 
