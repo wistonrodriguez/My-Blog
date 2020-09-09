@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/9_9_20_Third/",
+    "title": "My third Post",
+    "description": "Reactions to Hintzman (1986), Crump et al. (2019), Aujla et al. (2019)",
+    "author": [
+      {
+        "name": "Wiston Rodriguez",
+        "url": {}
+      }
+    ],
+    "date": "2020-09-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-09T13:02:26-04:00",
+    "input_file": "Third.utf8.md"
+  },
+  {
     "path": "posts/8_27_20_second/",
     "title": "My second post",
     "description": "Reactions to Miller (1965), Newell (1973), and Schacter et al. (1978)",
@@ -30,21 +46,5 @@
     "preview": {},
     "last_modified": "2020-09-02T10:53:44-04:00",
     "input_file": "welcome.utf8.md"
-  },
-  {
-    "path": "posts/9_9_20_Third/",
-    "title": "My third Post",
-    "description": "Reactions to Hintzman (1986), Crump et al. (2019), Aujla et al. (2019)",
-    "author": [
-      {
-        "name": "Wiston Rodriguez",
-        "url": {}
-      }
-    ],
-    "date": "2020-08-27",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-09-09T13:01:10-04:00",
-    "input_file": "Third.utf8.md"
   }
 ]
