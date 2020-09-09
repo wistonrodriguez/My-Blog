@@ -30,5 +30,21 @@
     "preview": {},
     "last_modified": "2020-09-02T10:53:44-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/9_9_20_Third/",
+    "title": "My third Post",
+    "description": "Reactions to Hintzman (1986), Crump et al. (2019), Aujla et al. (2019)",
+    "author": [
+      {
+        "name": "Wiston Rodriguez",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-09T13:00:32-04:00",
+    "input_file": "Third.utf8.md"
   }
 ]

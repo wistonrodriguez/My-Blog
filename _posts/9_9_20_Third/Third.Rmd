@@ -1,0 +1,32 @@
+---
+title: "My third Post"
+description: |
+  Reactions to Hintzman (1986), Crump et al. (2019), Aujla et al. (2019)
+author:
+  - name: Wiston Rodriguez  
+    url: 
+    affiliation: The Graduate Center and Baruch College
+    affiliation_url: https://www.gc.cuny.edu/Home
+date: 08-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+## Reactions to readings 
+
+Similar to last week, I found this weeks readings to be challenging (if not even more challenging) to comprehend. Reading this content feels frustrating given my very limited background in Cognitive Psychology. However, it was helpful that this weeks readings made a reference to Semon's theory of memory. Hintzman (1986) explores the idea that there is only one memory system, which is responsible for storing episodic traces. Further, the idea that abstract knowledge does not have to be stored but can be pulled from a "pool" of traces when it comes down to the retrieval process is also explored. I also had to do some further research on the Minerva 2 simulation model since this was my first time hearing about this model. I find it extremely fascinating that as a field, we have the technology to mimic human memory.The memory system described and explored by Hintzman (1986) is also similar to Semon's theory of memory with respect to the idea of engrams. From my understanding Hintzman (1986) also suggests that memories are not simply replaced by new memories that humans form. On the contrary, individuals form a "collection" of memories, which may then be activated when individuals encounter a similar stimuli.   
+
+I also found Crump et al. (2019) and Aujla et al. (2019) interesting to read yet challenging to get through as well. In particular, I enjoyed reading the role that technology plays within the field of Cognitive Psychology. The explanation of keyword search engines described by Aujla et al. (2019) reminded me of my experience as a talent acquisition intern when I was an undergraduate. Essentially, I would use a search engine platform to screen through resumes to find qualified candidates for the role of an insurance agent. One of the issues I ran into as an intern, was the same that is described by Aujla et al. (2019) of keyword matching. I learned that this is problematic due to the fact that there are multiple ways to describe the word I was searching for, thus, missing out on other candidates who simply did not use the word I was searching for. 
+
+The readings this week made me think more deeply about the role of AI and machine learning in the field of I/O. According to the Society of Industrial-Organizational Psychologists (SIOP), AI and Machine learning is the number 1 research trend for 2020. However, there is still so much that is unknown about the technology that organizations have started to use. One area where AI and machine learning has seen extreme growth is in the area of personnel selection. 
+
+The reason why so many I/O professionals are wary about the use of this technology is because it is programmed by humans and naturally, humans are biased. Thus, these technologies have the ability to be biased towards certain candidates. For example, the AI technology that was employed by Amazon was found to be biased against women candidates. This is an example of how this might lead to legal issues for organizations, resulting in monetary loss. I find the advancement of technology to be a paradox in a sense because it was created with the intent to make our lives easier. However, in this example and as it relates to work/life balance, it has in fact made our lives even harder. 
