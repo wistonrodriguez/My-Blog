@@ -13,7 +13,7 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-09-09T13:02:26-04:00",
-    "input_file": "Third.utf8.md"
+    "input_file": {}
   },
   {
     "path": "posts/8_27_20_second/",
@@ -28,8 +28,8 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-02T10:57:50-04:00",
-    "input_file": "Second.utf8.md"
+    "last_modified": "2020-09-02T10:57:51-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
@@ -44,7 +44,7 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-02T10:53:44-04:00",
-    "input_file": "welcome.utf8.md"
+    "last_modified": "2020-09-02T10:53:45-04:00",
+    "input_file": {}
   }
 ]
